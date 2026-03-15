@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-15 17:34",
+  "last_updated": "2026-03-15 17:55",
   "location": "Edmonton, AB",
-  "total_products": 5,
+  "total_products": 10,
   "prices": [
     {
       "store": "Superstore",
@@ -10,34 +10,34 @@
       "price_raw": "$4.97ea\n$1.54/ 100g",
       "category": "butter",
       "url": "https://www.realcanadiansuperstore.ca/en/creamery-butter-unsalted/p/21125358_EA",
-      "last_updated": "2026-03-15 17:33"
+      "last_updated": "2026-03-15 17:53"
     },
     {
       "store": "Superstore",
       "name": "Heinz Tomato Ketchup No Sugar",
-      "price": 5.79,
-      "price_raw": "$5.79ea",
+      "price": 4.97,
+      "price_raw": "$4.97ea",
       "category": "ketchup",
       "url": "https://www.realcanadiansuperstore.ca/en/tomato-ketchup-no-sugar-added/p/20762350_EA",
-      "last_updated": "2026-03-15 17:33"
+      "last_updated": "2026-03-15 17:53"
     },
     {
       "store": "Superstore",
       "name": "Large Size Eggs",
-      "price": 10.12,
-      "price_raw": "$10.12ea",
+      "price": 10.01,
+      "price_raw": "$10.01ea",
       "category": "eggs",
       "url": "https://www.realcanadiansuperstore.ca/en/large-size-eggs/p/21435777001_EA",
-      "last_updated": "2026-03-15 17:33"
+      "last_updated": "2026-03-15 17:53"
     },
     {
       "store": "Superstore",
       "name": "Classic White Bread",
-      "price": 3.0,
-      "price_raw": "$3.00ea",
+      "price": 1.97,
+      "price_raw": "$1.97ea",
       "category": "bread",
       "url": "https://www.realcanadiansuperstore.ca/en/classic-white-bread/p/20305674_EA",
-      "last_updated": "2026-03-15 17:34"
+      "last_updated": "2026-03-15 17:53"
     },
     {
       "store": "Superstore",
@@ -46,7 +46,52 @@
       "price_raw": "$6.29ea",
       "category": "mayonnaise",
       "url": "https://www.realcanadiansuperstore.ca/en/olive-oil-mayonnaise-ideal-with-fries-burgers-and/p/20627339002_EA",
-      "last_updated": "2026-03-15 17:34"
+      "last_updated": "2026-03-15 17:53"
+    },
+    {
+      "store": "Freshco",
+      "name": "Hellmann's Olive Oil Mayonnaise",
+      "price": 6.77,
+      "price_raw": "$6.77",
+      "category": "mayonnaise",
+      "url": "https://www.freshco.com/products/hellmann-s-gluten-free-mayonnaise-olive-oil-890-ml",
+      "last_updated": "2026-03-15 17:54"
+    },
+    {
+      "store": "Freshco",
+      "name": "Heinz Tomato Ketchup",
+      "price": 5.0,
+      "price_raw": "$5.00",
+      "category": "ketchup",
+      "url": "https://www.freshco.com/products/heinz-tomato-ketchup-750-ml",
+      "last_updated": "2026-03-15 17:54"
+    },
+    {
+      "store": "Freshco",
+      "name": "Compliments White Eggs Large 30ct",
+      "price": 10.18,
+      "price_raw": "$10.18",
+      "category": "eggs",
+      "url": "https://www.freshco.com/products/compliments-white-eggs-large-30-count",
+      "last_updated": "2026-03-15 17:55"
+    },
+    {
+      "store": "Freshco",
+      "name": "Dempster's White Bread",
+      "price": 3.69,
+      "price_raw": "$3.69",
+      "category": "bread",
+      "url": "https://www.freshco.com/products/dempster-s-white-bread-stay-fresh-570-g",
+      "last_updated": "2026-03-15 17:55"
+    },
+    {
+      "store": "Freshco",
+      "name": "Dairyland Butter Salted",
+      "price": 6.99,
+      "price_raw": "$6.99",
+      "category": "butter",
+      "url": "https://www.freshco.com/products/dairyland-butter-salted-454-g",
+      "last_updated": "2026-03-15 17:55"
     }
   ]
 }
