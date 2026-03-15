@@ -1,97 +1,18 @@
 {
-  "last_updated": "2026-03-15 18:00",
+  "last_updated": "2026-03-15 20:53",
   "location": "Edmonton, AB",
-  "total_products": 10,
+  "total_products": 1,
   "prices": [
     {
       "store": "Superstore",
-      "name": "Creamery Butter Unsalted",
-      "price": 2.5,
-      "price_raw": "💪 Unlimited free delivery + earn 2% back in points with pickup**. Get your first year of PC Express Pass for $2.50/month*. Learn more",
-      "category": "butter",
-      "url": "https://www.realcanadiansuperstore.ca/en/creamery-butter-unsalted/p/21125358_EA",
-      "last_updated": "2026-03-15 17:58"
-    },
-    {
-      "store": "Superstore",
-      "name": "Heinz Tomato Ketchup No Sugar",
+      "name": "Tomato Ketchup No Sugar Added",
       "price": 5.79,
-      "price_raw": "$5.79ea",
+      "size": null,
+      "unit_price": null,
+      "unit_label": null,
       "category": "ketchup",
       "url": "https://www.realcanadiansuperstore.ca/en/tomato-ketchup-no-sugar-added/p/20762350_EA",
-      "last_updated": "2026-03-15 17:58"
-    },
-    {
-      "store": "Superstore",
-      "name": "Large Size Eggs",
-      "price": 2.5,
-      "price_raw": "💪 Unlimited free delivery + earn 2% back in points with pickup**. Get your first year of PC Express Pass for $2.50/month*. Learn more",
-      "category": "eggs",
-      "url": "https://www.realcanadiansuperstore.ca/en/large-size-eggs/p/21435777001_EA",
-      "last_updated": "2026-03-15 17:58"
-    },
-    {
-      "store": "Superstore",
-      "name": "Classic White Bread",
-      "price": 2.5,
-      "price_raw": "💪 Unlimited free delivery + earn 2% back in points with pickup**. Get your first year of PC Express Pass for $2.50/month*. Learn more",
-      "category": "bread",
-      "url": "https://www.realcanadiansuperstore.ca/en/classic-white-bread/p/20305674_EA",
-      "last_updated": "2026-03-15 17:58"
-    },
-    {
-      "store": "Superstore",
-      "name": "Olive Oil Mayonnaise",
-      "price": 5.97,
-      "price_raw": "$5.97ea$6.29",
-      "category": "mayonnaise",
-      "url": "https://www.realcanadiansuperstore.ca/en/olive-oil-mayonnaise-ideal-with-fries-burgers-and/p/20627339002_EA",
-      "last_updated": "2026-03-15 17:58"
-    },
-    {
-      "store": "Freshco",
-      "name": "Hellmann's Olive Oil Mayonnaise",
-      "price": 6.77,
-      "price_raw": "$6.77",
-      "category": "mayonnaise",
-      "url": "https://www.freshco.com/products/hellmann-s-gluten-free-mayonnaise-olive-oil-890-ml",
-      "last_updated": "2026-03-15 17:59"
-    },
-    {
-      "store": "Freshco",
-      "name": "Heinz Tomato Ketchup",
-      "price": 5.0,
-      "price_raw": "$5.00",
-      "category": "ketchup",
-      "url": "https://www.freshco.com/products/heinz-tomato-ketchup-750-ml",
-      "last_updated": "2026-03-15 17:59"
-    },
-    {
-      "store": "Freshco",
-      "name": "Compliments White Eggs Large 30ct",
-      "price": 10.18,
-      "price_raw": "$10.18",
-      "category": "eggs",
-      "url": "https://www.freshco.com/products/compliments-white-eggs-large-30-count",
-      "last_updated": "2026-03-15 18:00"
-    },
-    {
-      "store": "Freshco",
-      "name": "Dempster's White Bread",
-      "price": 3.69,
-      "price_raw": "$3.69",
-      "category": "bread",
-      "url": "https://www.freshco.com/products/dempster-s-white-bread-stay-fresh-570-g",
-      "last_updated": "2026-03-15 18:00"
-    },
-    {
-      "store": "Freshco",
-      "name": "Dairyland Butter Salted",
-      "price": 6.99,
-      "price_raw": "$6.99",
-      "category": "butter",
-      "url": "https://www.freshco.com/products/dairyland-butter-salted-454-g",
-      "last_updated": "2026-03-15 18:00"
+      "last_updated": "2026-03-15 20:51"
     }
   ]
 }
