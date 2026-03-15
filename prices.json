@@ -1,0 +1,52 @@
+{
+  "last_updated": "2026-03-15 17:34",
+  "location": "Edmonton, AB",
+  "total_products": 5,
+  "prices": [
+    {
+      "store": "Superstore",
+      "name": "Creamery Butter Unsalted",
+      "price": 4.97,
+      "price_raw": "$4.97ea\n$1.54/ 100g",
+      "category": "butter",
+      "url": "https://www.realcanadiansuperstore.ca/en/creamery-butter-unsalted/p/21125358_EA",
+      "last_updated": "2026-03-15 17:33"
+    },
+    {
+      "store": "Superstore",
+      "name": "Heinz Tomato Ketchup No Sugar",
+      "price": 5.79,
+      "price_raw": "$5.79ea",
+      "category": "ketchup",
+      "url": "https://www.realcanadiansuperstore.ca/en/tomato-ketchup-no-sugar-added/p/20762350_EA",
+      "last_updated": "2026-03-15 17:33"
+    },
+    {
+      "store": "Superstore",
+      "name": "Large Size Eggs",
+      "price": 10.12,
+      "price_raw": "$10.12ea",
+      "category": "eggs",
+      "url": "https://www.realcanadiansuperstore.ca/en/large-size-eggs/p/21435777001_EA",
+      "last_updated": "2026-03-15 17:33"
+    },
+    {
+      "store": "Superstore",
+      "name": "Classic White Bread",
+      "price": 3.0,
+      "price_raw": "$3.00ea",
+      "category": "bread",
+      "url": "https://www.realcanadiansuperstore.ca/en/classic-white-bread/p/20305674_EA",
+      "last_updated": "2026-03-15 17:34"
+    },
+    {
+      "store": "Superstore",
+      "name": "Olive Oil Mayonnaise",
+      "price": 6.29,
+      "price_raw": "$6.29ea",
+      "category": "mayonnaise",
+      "url": "https://www.realcanadiansuperstore.ca/en/olive-oil-mayonnaise-ideal-with-fries-burgers-and/p/20627339002_EA",
+      "last_updated": "2026-03-15 17:34"
+    }
+  ]
+}
