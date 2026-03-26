@@ -1,18 +1,40 @@
 {
-  "last_updated": "2026-03-15 20:53",
+  "last_updated": "2026-03-26 19:49",
   "location": "Edmonton, AB",
-  "total_products": 1,
+  "total_products": 3,
   "prices": [
     {
       "store": "Superstore",
-      "name": "Tomato Ketchup No Sugar Added",
-      "price": 5.79,
+      "name": "Peanut Butter, Creamy",
+      "price": 6.99,
       "size": null,
       "unit_price": null,
       "unit_label": null,
-      "category": "ketchup",
-      "url": "https://www.realcanadiansuperstore.ca/en/tomato-ketchup-no-sugar-added/p/20762350_EA",
-      "last_updated": "2026-03-15 20:51"
+      "category": "peanut butter",
+      "url": "https://www.realcanadiansuperstore.ca/en/peanut-butter-creamy/p/20322266001_EA#:~:text=Natur%20100%25%20natural%20peanut%20butter,delicious%20Natur%20Natural%20Peanut%20Butter!",
+      "last_updated": "2026-03-26 19:43"
+    },
+    {
+      "store": "Superstore",
+      "name": "Smooth Peanut Butter",
+      "price": 4.99,
+      "size": null,
+      "unit_price": null,
+      "unit_label": null,
+      "category": "peanut butter",
+      "url": "https://www.realcanadiansuperstore.ca/en/smooth-peanut-butter/p/20132369001_EA",
+      "last_updated": "2026-03-26 19:43"
+    },
+    {
+      "store": "Superstore",
+      "name": "Smooth Peanut Butter",
+      "price": 4.99,
+      "size": null,
+      "unit_price": null,
+      "unit_label": null,
+      "category": "peanut butter",
+      "url": "https://www.realcanadiansuperstore.ca/en/smooth-peanut-butter/p/20132369001_EA#:~:text=Made%20with%20high%2Dquality%20dry%20roasted,or%20spread%20on%20crunchy%20toast.",
+      "last_updated": "2026-03-26 19:43"
     }
   ]
 }
