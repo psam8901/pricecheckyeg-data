@@ -1,40 +1,29 @@
 {
-  "last_updated": "2026-03-26 19:49",
+  "last_updated": "2026-06-07 18:08",
   "location": "Edmonton, AB",
-  "total_products": 3,
+  "total_products": 2,
   "prices": [
     {
       "store": "Superstore",
-      "name": "Peanut Butter, Creamy",
-      "price": 6.99,
+      "name": "Cinnamon Toast Crunch Breakfast Cereal, Whole Grains and Real Cinnamon",
+      "price": 3.33,
       "size": null,
       "unit_price": null,
       "unit_label": null,
-      "category": "peanut butter",
-      "url": "https://www.realcanadiansuperstore.ca/en/peanut-butter-creamy/p/20322266001_EA#:~:text=Natur%20100%25%20natural%20peanut%20butter,delicious%20Natur%20Natural%20Peanut%20Butter!",
-      "last_updated": "2026-03-26 19:43"
+      "category": "cereal",
+      "url": "https://www.realcanadiansuperstore.ca/en/cinnamon-toast-crunch-breakfast-cereal-whole-grain/p/21104055_EA#:~:text=Every%20crispy%20square%20is%20blasted,that%20makes%20your%20mouth%20happy.",
+      "last_updated": "2026-06-07 18:03"
     },
     {
       "store": "Superstore",
-      "name": "Smooth Peanut Butter",
-      "price": 4.99,
+      "name": "Trix Fruity Shapes Cereal",
+      "price": 3.33,
       "size": null,
       "unit_price": null,
       "unit_label": null,
-      "category": "peanut butter",
-      "url": "https://www.realcanadiansuperstore.ca/en/smooth-peanut-butter/p/20132369001_EA",
-      "last_updated": "2026-03-26 19:43"
-    },
-    {
-      "store": "Superstore",
-      "name": "Smooth Peanut Butter",
-      "price": 4.99,
-      "size": null,
-      "unit_price": null,
-      "unit_label": null,
-      "category": "peanut butter",
-      "url": "https://www.realcanadiansuperstore.ca/en/smooth-peanut-butter/p/20132369001_EA#:~:text=Made%20with%20high%2Dquality%20dry%20roasted,or%20spread%20on%20crunchy%20toast.",
-      "last_updated": "2026-03-26 19:43"
+      "category": "cereal",
+      "url": "https://www.realcanadiansuperstore.ca/en/trix-fruity-shapes-cereal/p/21174141_EA",
+      "last_updated": "2026-06-07 18:03"
     }
   ]
 }
